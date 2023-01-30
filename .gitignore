@@ -1,0 +1,10 @@
+/results/*
+*.pth
+*.pyc
+/*.txt
+/checkpoints/*/loss_log.txt
+/checkpoints/*/test_opt.txt
+/checkpoints/*/*.png
+/evaluations
+.python-version
+/.venv
