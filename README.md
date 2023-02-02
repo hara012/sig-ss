@@ -121,6 +121,8 @@ This software is for educational and academic research purpose only. If you wish
 ## Citation
 
 If you use this code for your research, please cite our paper.
+
+[AAAI 2021](https://ojs.aaai.org/index.php/AAAI/article/view/16242)
 ```
 @inproceedings{hara2021sig-ss,
   title={Spherical Image Generation from a Single Image by Considering Scene Symmetry},
@@ -129,7 +131,10 @@ If you use this code for your research, please cite our paper.
   pages={1513-1521},
   year={2021}
 }
+```
 
+[TPAMI](https://doi.org/10.1109/TPAMI.2022.3215933)
+```
 @article{hara2022sig-ss,
     author  = {Takayuki Hara and Yusuke Mukuta and Tatsuya Harada},
     journal = {IEEE Transactions on Pattern Analysis and Machine Intelligence},
