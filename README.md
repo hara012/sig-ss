@@ -45,17 +45,18 @@ camera. The proposed method can generate various plausible spherical images cont
 ## Installation
 This code was tested with Pytoch 1.6.0, CUDA 11.0, Python 3.8.8 and Ubuntu 20.04.2 LTS
 
-- Install Pytoch 1.6.0, torchvision, and other dependencies from [http://pytorch.org](http://pytorch.org)
-- Install python libraries [visdom](https://github.com/facebookresearch/visdom), [dominate](https://github.com/Knio/dominate), opencv-python, imageio
-
-```sh
-pip install visdom dominate opencv-python imageio
-```
 - Clone this repo:
 
 ```sh
 git clone https://github.com/hara012/sig-ss
 cd sig-ss
+```
+
+- Install Pytoch 1.6.0, torchvision, and other dependencies from [http://pytorch.org](http://pytorch.org)
+- Install python libraries.
+
+```sh
+pip install -r requirements.txt
 ```
 
 ## Pretrained models
